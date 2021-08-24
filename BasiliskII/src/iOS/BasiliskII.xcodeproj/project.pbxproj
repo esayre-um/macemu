@@ -809,7 +809,7 @@
 				ORGANIZATIONNAME = namedfork;
 				TargetAttributes = {
 					2898F44D18CB719600FE7806 = {
-						DevelopmentTeam = UJXNDZ5TNU;
+						DevelopmentTeam = GJB45L5FSQ;
 						SystemCapabilities = {
 							com.apple.iCloud = {
 								enabled = 0;
@@ -1127,6 +1127,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				DEVELOPMENT_TEAM = GJB45L5FSQ;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "BasiliskII/BasiliskII-Prefix.pch";
 				GCC_STRICT_ALIASING = NO;
@@ -1141,7 +1142,7 @@
 				INFOPLIST_FILE = "BasiliskII/BasiliskII-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				ONLY_ACTIVE_ARCH = NO;
-				PRODUCT_BUNDLE_IDENTIFIER = "net.namedfork.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_BUNDLE_IDENTIFIER = sayre.errol.BasiliskII;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -1169,7 +1170,7 @@
 				INFOPLIST_FILE = "BasiliskII/BasiliskII-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				ONLY_ACTIVE_ARCH = NO;
-				PRODUCT_BUNDLE_IDENTIFIER = "net.namedfork.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_BUNDLE_IDENTIFIER = sayre.errol.BasiliskII;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
 				TARGETED_DEVICE_FAMILY = "1,2";
